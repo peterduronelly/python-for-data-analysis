@@ -1,0 +1,431 @@
+,hotel_id,neighbourhood,distance,stars,rating,ratingta_count,accommodation_type,price,city
+0,21894,17. Hernals,2.7,4.0,4.4,216.0,Apartment,81,Vienna
+1,21897,17. Hernals,1.7,4.0,3.9,708.0,Hotel,81,Vienna
+2,21901,Alsergrund,1.4,4.0,3.7,629.0,Hotel,85,Vienna
+3,21902,Alsergrund,1.7,3.0,4.0,52.0,Hotel,83,Vienna
+4,21903,Alsergrund,1.2,4.0,3.9,219.0,Hotel,82,Vienna
+5,21904,Alsergrund,0.9,5.0,4.8,27.0,Apartment,229,Vienna
+6,21906,Alsergrund,0.9,4.0,3.9,251.0,Hotel,103,Vienna
+7,21907,Alsergrund,1.0,4.0,4.6,617.0,Hotel,150,Vienna
+8,21908,Alsergrund,0.7,2.0,3.5,146.0,Hotel,80,Vienna
+9,21910,Alsergrund,1.5,3.0,,,Apartment,153,Vienna
+10,21912,Alsergrund,1.1,4.0,4.1,359.0,Hotel,60,Vienna
+11,21913,Alsergrund,0.8,4.0,4.0,829.0,Hotel,128,Vienna
+12,21914,Alsergrund,1.0,4.0,4.5,55.0,Apartment,100,Vienna
+13,21915,Alsergrund,1.2,2.0,3.7,,Apartment,143,Vienna
+14,21916,Alsergrund,0.7,2.5,,74.0,Hotel,106,Vienna
+15,21917,Alsergrund,1.7,4.0,4.1,62.0,Hotel,85,Vienna
+16,21918,Alsergrund,0.9,3.0,3.7,97.0,Hotel,77,Vienna
+17,21919,Alsergrund,0.8,3.0,3.9,120.0,Hotel,78,Vienna
+18,21920,Alsergrund,0.9,3.0,4.0,161.0,Hotel,78,Vienna
+19,21921,Donaustadt,3.4,3.5,,2.0,Apartment,260,Vienna
+20,21922,Donaustadt,3.4,3.0,4.8,72.0,Apartment,158,Vienna
+21,21924,Donaustadt,4.2,3.0,3.9,158.0,Hotel,77,Vienna
+22,21925,Donaustadt,3.9,3.0,2.7,91.0,Hotel,77,Vienna
+23,21926,Donaustadt,3.6,4.0,4.3,228.0,Hotel,95,Vienna
+24,21927,Donaustadt,3.8,3.0,3.0,,Apartment,156,Vienna
+25,21928,Donaustadt,3.5,3.0,3.5,205.0,Bed and breakfast,145,Vienna
+26,21930,Donaustadt,2.9,4.0,4.1,1085.0,Hotel,208,Vienna
+27,21933,Donaustadt,3.4,3.0,3.7,423.0,Hotel,87,Vienna
+28,21934,Favoriten,2.3,2.0,3.5,,Apartment,131,Vienna
+29,21935,Favoriten,2.0,3.0,3.5,522.0,Hotel,54,Vienna
+30,21936,Favoriten,2.4,2.0,3.0,17.0,Apartment,139,Vienna
+31,21937,Favoriten,2.8,2.0,3.2,,Apartment,184,Vienna
+32,21938,Favoriten,2.9,3.0,1.0,,Apartment,127,Vienna
+33,21939,Favoriten,2.5,3.0,,,Apartment,95,Vienna
+34,21940,Favoriten,1.7,3.5,4.4,630.0,Hotel,99,Vienna
+35,21941,Favoriten,1.7,3.5,4.4,573.0,Hotel,75,Vienna
+36,21943,Favoriten,2.1,3.0,4.4,269.0,Hotel,76,Vienna
+37,21945,Favoriten,2.5,2.0,3.0,,Apartment,130,Vienna
+38,21946,Favoriten,1.9,4.0,4.5,741.0,Hotel,91,Vienna
+39,21947,Favoriten,2.4,2.0,3.0,,Apartment,135,Vienna
+40,21948,Favoriten,2.0,2.0,2.0,183.0,Hotel,56,Vienna
+41,21949,Favoriten,2.7,2.0,3.7,216.0,Hostel,27,Vienna
+42,21950,Favoriten,2.3,3.0,3.0,,Apartment,88,Vienna
+43,21951,Favoriten,2.5,2.0,3.5,,Apartment,133,Vienna
+44,21956,Favoriten,1.8,2.0,3.4,491.0,Hotel,33,Vienna
+45,21958,Favoriten,2.0,3.5,,,Apartment,116,Vienna
+46,21959,Favoriten,1.7,4.0,4.0,31.0,Hotel,71,Vienna
+47,21960,Favoriten,2.7,3.5,3.5,,Apartment,90,Vienna
+48,21962,Favoriten,1.9,4.0,4.1,,Apartment,84,Vienna
+49,21963,Favoriten,2.3,3.0,4.3,,Guest House,63,Vienna
+50,21964,Fischamend,13.0,3.0,3.0,243.0,Hotel,59,Vienna
+51,21965,Graben,0.2,3.0,4.4,259.0,Hotel,113,Vienna
+52,21966,Graben,0.1,4.5,4.1,,Apartment,218,Vienna
+53,21967,Graben,0.1,5.0,4.5,702.0,Hotel,299,Vienna
+54,21968,Innere Stadt,0.3,3.0,4.5,1347.0,Hotel,156,Vienna
+55,21969,Innere Stadt,0.3,5.0,4.8,1126.0,Hotel,513,Vienna
+56,21970,Innere Stadt,0.3,4.0,4.3,466.0,Hotel,133,Vienna
+57,21971,Innere Stadt,0.5,4.0,4.1,47.0,Hotel,123,Vienna
+58,21972,Innere Stadt,0.3,4.0,4.5,392.0,Hotel,219,Vienna
+59,21973,Innere Stadt,0.3,4.0,4.3,261.0,Hotel,152,Vienna
+60,21975,Innere Stadt,0.1,4.0,4.3,211.0,Hotel,115,Vienna
+61,21976,Innere Stadt,0.3,5.0,4.5,114.0,Hotel,806,Vienna
+62,21977,Innere Stadt,0.2,4.0,4.5,463.0,Hotel,138,Vienna
+63,21979,Innere Stadt,0.4,3.0,3.7,,Apartment,95,Vienna
+64,21980,Innere Stadt,0.1,4.0,4.4,714.0,Hotel,146,Vienna
+65,21981,Innere Stadt,0.7,3.0,4.0,159.0,Pension,103,Vienna
+66,21983,Innere Stadt,0.5,3.5,,,Apartment,125,Vienna
+67,21984,Innere Stadt,0.5,3.0,3.7,66.0,Hotel,98,Vienna
+68,21985,Innere Stadt,0.3,3.5,4.5,557.0,Hotel,121,Vienna
+69,21986,Innere Stadt,0.2,4.0,4.0,1516.0,Hotel,149,Vienna
+70,21987,Innere Stadt,0.3,3.0,3.9,515.0,Hotel,120,Vienna
+71,21988,Innere Stadt,0.4,3.0,4.4,146.0,Hotel,157,Vienna
+72,21989,Innere Stadt,0.3,5.0,4.8,945.0,Hotel,261,Vienna
+73,21990,Innere Stadt,0.7,3.5,4.1,48.0,Apartment,145,Vienna
+74,21991,Innere Stadt,0.2,4.0,4.3,16.0,Apartment,275,Vienna
+75,21992,Innere Stadt,0.2,3.5,,,Apartment,253,Vienna
+76,21993,Innere Stadt,0.2,4.0,,,Apartment,209,Vienna
+77,21995,Innere Stadt,0.2,4.0,4.0,607.0,Hotel,112,Vienna
+78,21996,Innere Stadt,0.3,4.0,4.3,273.0,Hotel,138,Vienna
+79,21997,Innere Stadt,0.4,3.0,4.0,171.0,Pension,84,Vienna
+80,21998,Innere Stadt,0.3,4.5,4.5,3171.0,Hotel,199,Vienna
+81,21999,Innere Stadt,0.3,5.0,4.4,917.0,Hotel,203,Vienna
+82,22001,Innere Stadt,0.2,3.0,,4.0,Vacation home Condo,116,Vienna
+83,22002,Innere Stadt,0.2,3.5,,,Apartment,107,Vienna
+84,22003,Innere Stadt,0.2,3.5,,,Apartment,127,Vienna
+85,22004,Innere Stadt,0.2,3.5,,,Apartment,104,Vienna
+86,22005,Innere Stadt,0.2,3.5,4.0,4.0,Apartment,168,Vienna
+87,22006,Innere Stadt,0.5,5.0,4.8,1178.0,Hotel,544,Vienna
+88,22007,Innere Stadt,0.5,5.0,4.6,1050.0,Hotel,252,Vienna
+89,22008,Innere Stadt,0.5,5.0,4.5,1168.0,Hotel,323,Vienna
+90,22009,Innere Stadt,0.3,3.0,4.3,232.0,Hotel,158,Vienna
+91,22010,Innere Stadt,0.2,3.5,4.0,,Apartment,156,Vienna
+92,22011,Innere Stadt,0.2,4.0,4.6,1112.0,Hotel,218,Vienna
+93,22012,Innere Stadt,0.1,4.0,4.5,475.0,Hotel,218,Vienna
+94,22013,Innere Stadt,0.3,3.0,3.9,162.0,Hotel,135,Vienna
+95,22014,Innere Stadt,0.6,2.0,4.0,,Apartment,219,Vienna
+96,22016,Innere Stadt,0.5,4.0,4.4,423.0,Hotel,179,Vienna
+97,22017,Innere Stadt,0.5,3.5,,,Apartment,511,Vienna
+98,22018,Innere Stadt,0.7,4.0,4.5,1380.0,Hotel,157,Vienna
+99,22019,Innere Stadt,0.3,4.0,4.5,770.0,Hotel,146,Vienna
+100,22020,Innere Stadt,0.4,5.0,4.3,1850.0,Hotel,200,Vienna
+101,22021,Innere Stadt,0.1,4.0,4.1,392.0,Hotel,157,Vienna
+102,22022,Innere Stadt,0.3,4.0,,,Apartment,138,Vienna
+103,22023,Innere Stadt,0.3,3.0,3.5,234.0,Hotel,108,Vienna
+104,22025,Innere Stadt,0.2,3.5,,,Apartment,290,Vienna
+105,22026,Innere Stadt,0.8,4.0,4.0,840.0,Hotel,127,Vienna
+106,22027,Innere Stadt,0.7,3.0,3.0,,Guest House,114,Vienna
+107,22028,Innere Stadt,0.4,4.0,4.1,388.0,Hotel,163,Vienna
+108,22029,Innere Stadt,0.2,4.0,4.5,212.0,Apart-hotel,116,Vienna
+109,22030,Innere Stadt,0.5,5.0,4.3,2985.0,Hotel,226,Vienna
+110,22031,Innere Stadt,0.1,4.0,4.4,282.0,Hotel,231,Vienna
+111,22032,Innere Stadt,0.4,4.0,4.4,1274.0,Hotel,116,Vienna
+112,22033,Innere Stadt,0.4,3.0,3.7,167.0,Guest House,76,Vienna
+113,22034,Innere Stadt,0.3,3.5,1.0,,Apartment,135,Vienna
+114,22035,Innere Stadt,0.6,5.0,4.5,1330.0,Hotel,184,Vienna
+115,22036,Innere Stadt,0.6,5.0,4.8,1207.0,Hotel,384,Vienna
+116,22037,Innere Stadt,0.6,4.0,4.3,1592.0,Hotel,166,Vienna
+117,22038,Innere Stadt,0.5,5.0,4.1,468.0,Hotel,187,Vienna
+118,22039,Innere Stadt,0.5,5.0,4.6,1319.0,Hotel,371,Vienna
+119,22040,Innere Stadt,0.1,4.0,4.4,272.0,Pension,156,Vienna
+120,22041,Innere Stadt,0.3,3.5,,,Apartment,220,Vienna
+121,22042,Innere Stadt,0.3,4.0,4.5,561.0,Hotel,169,Vienna
+122,22043,Innere Stadt,0.3,3.0,,,Apartment,103,Vienna
+123,22044,Innere Stadt,0.3,5.0,4.5,,Apartment,266,Vienna
+124,22045,Innere Stadt,0.1,3.0,3.9,338.0,Pension,131,Vienna
+125,22046,Innere Stadt,0.2,4.0,4.6,154.0,Apartment,168,Vienna
+126,22047,Innere Stadt,0.2,3.0,,,Apartment,101,Vienna
+127,22049,Innere Stadt,0.2,3.5,,,Apartment,364,Vienna
+128,22050,Innere Stadt,0.0,4.0,4.8,2165.0,Hotel,242,Vienna
+129,22050,Innere Stadt,0.0,4.0,4.8,2165.0,Hotel,242,Vienna
+130,22051,Innere Stadt,0.5,4.0,3.5,276.0,Hotel,223,Vienna
+131,22052,Innere Stadt,0.3,4.0,4.4,930.0,Hotel,149,Vienna
+132,22053,Innere Stadt,0.2,3.5,,,Apartment,232,Vienna
+133,22054,Innere Stadt,0.5,4.0,4.0,836.0,Hotel,114,Vienna
+134,22055,Innere Stadt,0.1,3.5,2.0,,Apartment,253,Vienna
+135,22057,Innere Stadt,0.3,4.0,4.4,203.0,Apart-hotel,163,Vienna
+136,22059,Innere Stadt,0.4,3.0,4.1,774.0,Pension,116,Vienna
+137,22061,Innere Stadt,0.2,4.0,3.5,54.0,Hotel,139,Vienna
+138,22063,Innere Stadt,0.2,3.5,3.2,,Apartment,91,Vienna
+139,22064,Josefstadt,1.4,3.0,3.5,127.0,Hotel,79,Vienna
+140,22065,Josefstadt,1.1,4.0,3.7,85.0,Pension,66,Vienna
+141,22066,Josefstadt,1.1,3.0,3.0,17.0,Apartment,100,Vienna
+142,22067,Josefstadt,1.3,2.5,3.0,33.0,Pension,75,Vienna
+143,22068,Josefstadt,1.2,2.0,3.5,87.0,Pension,73,Vienna
+144,22069,Josefstadt,0.8,5.0,4.1,876.0,Hotel,127,Vienna
+145,22071,Josefstadt,0.9,3.0,4.1,419.0,Hotel,110,Vienna
+146,22072,Josefstadt,0.9,3.0,4.4,509.0,Hotel,88,Vienna
+147,22073,Josefstadt,1.2,3.0,3.7,88.0,Pension,59,Vienna
+148,22074,Josefstadt,1.6,4.0,,,Apartment,355,Vienna
+149,22075,Josefstadt,1.6,3.0,3.9,967.0,Hotel,59,Vienna
+150,22076,Josefstadt,0.9,4.0,4.0,1358.0,Hotel,119,Vienna
+151,22077,Josefstadt,0.9,4.0,4.3,1461.0,Hotel,152,Vienna
+152,22078,Josefstadt,1.0,4.0,4.0,346.0,Hotel,102,Vienna
+153,22079,Josefstadt,1.5,3.5,5.0,,Apartment,363,Vienna
+154,22080,Josefstadt,1.1,3.0,3.2,85.0,Hotel,54,Vienna
+155,22081,Josefstadt,1.1,3.0,4.0,44.0,Apartment,101,Vienna
+156,22082,Josefstadt,0.9,2.0,4.0,304.0,Hotel,75,Vienna
+157,22083,Josefstadt,0.9,2.0,3.9,103.0,Hotel,73,Vienna
+158,22084,Josefstadt,1.0,3.0,4.1,452.0,Hotel,94,Vienna
+159,22085,Josefstadt,1.1,4.0,3.5,251.0,Pension,64,Vienna
+160,22086,Josefstadt,1.0,3.5,3.7,260.0,Apart-hotel,81,Vienna
+161,22087,Josefstadt,1.6,3.0,4.0,,Apartment,162,Vienna
+162,22088,Josefstadt,0.9,4.0,4.5,2150.0,Hotel,115,Vienna
+163,22089,Josefstadt,1.2,4.0,4.4,90.0,Apartment,101,Vienna
+164,22090,Josefstadt,0.9,3.0,3.7,182.0,Hotel,68,Vienna
+165,22092,Kaerntner Strasse,0.4,5.0,4.5,1504.0,Hotel,354,Vienna
+166,22093,Kaerntner Strasse,0.2,4.0,4.1,700.0,Hotel,153,Vienna
+167,22094,Kaerntner Strasse,0.2,5.0,4.3,615.0,Hotel,202,Vienna
+168,22095,Kaerntner Strasse,0.3,4.0,4.1,760.0,Hotel,169,Vienna
+169,22097,Kaerntner Strasse,0.5,4.0,4.5,327.0,Hotel,182,Vienna
+170,22098,Kaerntner Strasse,0.1,3.0,,,Apartment,193,Vienna
+171,22099,Kaerntner Strasse,0.2,4.0,4.1,408.0,Pension,138,Vienna
+172,22100,Kaerntner Strasse,0.4,5.0,4.8,1748.0,Hotel,527,Vienna
+173,22101,Kaerntner Strasse,0.1,4.0,4.4,837.0,Hotel,142,Vienna
+174,22102,Kaerntner Strasse,0.4,3.5,,,Apartment,98,Vienna
+175,22104,Landstrasse,0.6,4.0,4.3,2718.0,Hotel,110,Vienna
+176,22107,Landstrasse,1.9,3.5,4.1,25.0,Apartment,82,Vienna
+177,22108,Landstrasse,0.9,3.5,2.5,,Apartment,91,Vienna
+178,22109,Landstrasse,1.6,3.5,,,Apartment,150,Vienna
+179,22110,Landstrasse,1.7,3.5,4.4,35.0,Apartment,83,Vienna
+180,22111,Landstrasse,1.8,4.5,4.0,,Apartment,95,Vienna
+181,22112,Landstrasse,1.4,3.0,3.7,,Apartment,131,Vienna
+182,22113,Landstrasse,1.1,4.0,4.8,610.0,Bed and breakfast,162,Vienna
+183,22114,Landstrasse,0.5,5.0,4.3,2015.0,Hotel,177,Vienna
+184,22115,Landstrasse,1.5,2.0,4.0,,Apartment,122,Vienna
+185,22116,Landstrasse,1.6,3.0,2.0,,Apartment,79,Vienna
+186,22117,Landstrasse,1.4,4.0,4.0,395.0,Hotel,82,Vienna
+187,22118,Landstrasse,1.7,4.0,4.1,717.0,Hotel,82,Vienna
+188,22119,Landstrasse,1.8,3.0,3.9,203.0,Hotel,66,Vienna
+189,22120,Landstrasse,0.8,4.0,4.1,1208.0,Hotel,169,Vienna
+190,22122,Landstrasse,0.8,3.0,3.7,189.0,Guest House,59,Vienna
+191,22123,Landstrasse,1.5,4.0,4.1,666.0,Hotel,109,Vienna
+192,22125,Landstrasse,0.7,3.0,3.4,72.0,Hotel,104,Vienna
+193,22126,Landstrasse,0.9,3.5,4.3,730.0,Hotel,145,Vienna
+194,22127,Landstrasse,1.4,3.5,2.0,,Apartment,58,Vienna
+195,22129,Landstrasse,1.3,4.0,4.3,,Vacation home Condo,107,Vienna
+196,22130,Landstrasse,0.8,3.0,3.5,183.0,Hotel,85,Vienna
+197,22131,Landstrasse,0.7,4.0,4.5,5.0,Apartment,184,Vienna
+198,22132,Landstrasse,1.0,4.5,4.1,1060.0,Hotel,137,Vienna
+199,22134,Landstrasse,1.1,4.5,4.5,1591.0,Hotel,116,Vienna
+200,22135,Landstrasse,1.1,2.0,3.7,52.0,Apartment,157,Vienna
+201,22136,Landstrasse,1.3,3.0,3.7,529.0,Hotel,110,Vienna
+202,22138,Landstrasse,0.6,4.0,4.3,343.0,Hotel,134,Vienna
+203,22140,Landstrasse,1.3,4.0,3.7,77.0,Hotel,79,Vienna
+204,22141,Landstrasse,1.4,3.0,4.5,,Apartment,143,Vienna
+205,22142,Landstrasse,1.0,4.0,4.1,1403.0,Hotel,132,Vienna
+206,22143,Landstrasse,1.3,4.0,4.0,162.0,Apartment,68,Vienna
+207,22144,Leopoldstadt,0.6,4.0,4.1,1437.0,Hotel,128,Vienna
+208,22145,Leopoldstadt,1.5,3.0,4.5,491.0,Hotel,99,Vienna
+209,22148,Leopoldstadt,0.9,2.0,2.2,,Apartment,149,Vienna
+210,22149,Leopoldstadt,1.8,4.0,4.0,326.0,Hotel,86,Vienna
+211,22150,Leopoldstadt,1.9,3.0,4.1,28.0,Apartment,155,Vienna
+212,22152,Leopoldstadt,1.0,3.0,3.4,183.0,Hotel,63,Vienna
+213,22153,Leopoldstadt,0.6,2.0,3.7,12.0,Apartment,157,Vienna
+214,22155,Leopoldstadt,0.6,3.5,4.0,70.0,Hotel,134,Vienna
+215,22156,Leopoldstadt,1.7,5.0,4.3,,Apartment,141,Vienna
+216,22157,Leopoldstadt,0.9,3.0,3.7,290.0,Hotel,79,Vienna
+217,22158,Leopoldstadt,0.5,4.0,4.0,1023.0,Hotel,138,Vienna
+218,22159,Leopoldstadt,1.0,4.0,4.5,1516.0,Hotel,113,Vienna
+219,22160,Leopoldstadt,1.5,3.0,3.5,,Apartment,171,Vienna
+220,22161,Leopoldstadt,1.5,2.0,3.5,1666.0,Hotel,56,Vienna
+221,22162,Leopoldstadt,1.5,3.0,3.9,1249.0,Hotel,84,Vienna
+222,22163,Leopoldstadt,1.1,2.0,4.0,302.0,Hotel,72,Vienna
+223,22164,Leopoldstadt,0.7,5.0,1.0,7.0,Hotel,587,Vienna
+224,22165,Leopoldstadt,0.9,3.0,4.0,129.0,Hotel,68,Vienna
+225,22166,Leopoldstadt,1.5,3.5,3.9,281.0,Hotel,102,Vienna
+226,22167,Leopoldstadt,1.5,3.0,3.4,7.0,Apartment,96,Vienna
+227,22168,Leopoldstadt,0.9,1.0,3.7,141.0,Hotel,81,Vienna
+228,22169,Leopoldstadt,1.6,3.0,4.1,727.0,Hotel,82,Vienna
+229,22170,Leopoldstadt,1.1,3.0,4.0,407.0,Hotel,66,Vienna
+230,22171,Leopoldstadt,0.8,3.0,3.9,51.0,Apartment,87,Vienna
+231,22173,Leopoldstadt,0.6,4.0,,,Apartment,364,Vienna
+232,22175,Leopoldstadt,0.4,5.0,4.5,2098.0,Hotel,240,Vienna
+233,22176,Leopoldstadt,0.8,3.0,4.5,1686.0,Hotel,113,Vienna
+234,22177,Leopoldstadt,1.0,3.0,4.5,1449.0,Hotel,106,Vienna
+235,22179,Leopoldstadt,1.6,3.0,4.1,1580.0,Hotel,89,Vienna
+236,22180,Leopoldstadt,0.9,2.0,4.0,1027.0,Hotel,61,Vienna
+237,22181,Leopoldstadt,0.8,3.5,4.5,,Apartment,92,Vienna
+238,22182,Leopoldstadt,0.8,4.0,4.1,739.0,Hotel,106,Vienna
+239,22183,Leopoldstadt,0.8,4.0,4.0,584.0,Hotel,100,Vienna
+240,22184,Leopoldstadt,0.7,3.0,4.1,827.0,Hotel,75,Vienna
+241,22185,Leopoldstadt,0.8,3.0,2.2,92.0,Hotel,84,Vienna
+242,22185,Leopoldstadt,0.8,3.0,2.2,92.0,Hotel,84,Vienna
+243,22187,Leopoldstadt,0.5,4.0,4.6,1272.0,Hotel,151,Vienna
+244,22188,Leopoldstadt,0.9,3.0,3.5,314.0,Hotel,87,Vienna
+245,22189,Leopoldstadt,0.5,4.0,4.4,836.0,Hotel,117,Vienna
+246,22190,Leopoldstadt,1.9,4.0,4.5,807.0,Hotel,120,Vienna
+247,22191,Leopoldstadt,0.8,3.5,,,Apartment,132,Vienna
+248,22192,Leopoldstadt,0.9,2.5,3.9,85.0,Hotel,68,Vienna
+249,22193,Margareten,1.9,3.0,4.0,382.0,Hotel,383,Vienna
+250,22194,Margareten,1.6,4.0,4.3,,Apartment,160,Vienna
+251,22195,Margareten,2.0,2.0,,,Apartment,135,Vienna
+252,22196,Margareten,2.0,4.5,4.5,659.0,Hotel,111,Vienna
+253,22198,Margareten,1.5,4.0,4.3,1650.0,Hotel,174,Vienna
+254,22199,Margareten,2.0,3.0,3.5,335.0,Hotel,63,Vienna
+255,22200,Margareten,1.4,3.0,4.3,,Apartment,73,Vienna
+256,22201,Margareten,1.5,3.5,4.5,15.0,Hotel,100,Vienna
+257,22202,Margareten,1.7,3.5,,,Apartment,162,Vienna
+258,22203,Margareten,1.4,4.0,3.9,1708.0,Hotel,86,Vienna
+259,22204,Margareten,1.9,3.0,,,Guest House,103,Vienna
+260,22205,Margareten,1.8,3.0,4.0,909.0,Hotel,67,Vienna
+261,22206,Margareten,1.3,4.0,4.1,372.0,Hotel,129,Vienna
+262,22208,Margareten,1.9,3.0,4.1,161.0,Apartment,80,Vienna
+263,22209,Margareten,1.9,2.0,3.2,,Apartment,131,Vienna
+264,22210,Margareten,1.6,3.5,5.0,,Apartment,150,Vienna
+265,22211,Mariahilf,1.1,3.0,4.6,,Apartment,159,Vienna
+266,22212,Mariahilf,1.3,3.0,4.0,383.0,Hotel,86,Vienna
+267,22213,Mariahilf,0.9,2.0,3.7,,Hotel,96,Vienna
+268,22214,Mariahilf,0.7,4.0,4.1,682.0,Hotel,131,Vienna
+269,22215,Mariahilf,2.0,4.0,4.1,,Apartment,103,Vienna
+270,22217,Mariahilf,1.0,2.0,4.0,618.0,Hotel,85,Vienna
+271,22218,Mariahilf,1.4,3.0,3.9,170.0,Hotel,80,Vienna
+272,22219,Mariahilf,1.1,4.0,4.0,410.0,Hotel,93,Vienna
+273,22221,Mariahilf,1.8,3.5,4.5,,Apartment,81,Vienna
+274,22222,Mariahilf,1.9,3.0,4.0,2102.0,Hotel,77,Vienna
+275,22223,Mariahilf,0.8,4.0,4.8,1495.0,Hotel,140,Vienna
+276,22224,Mariahilf,1.0,4.0,4.0,1228.0,Hotel,99,Vienna
+277,22225,Mariahilf,1.1,4.0,4.1,151.0,Pension,75,Vienna
+278,22226,Mariahilf,1.4,4.0,4.4,716.0,Hotel,105,Vienna
+279,22227,Mariahilf,1.7,3.5,4.5,1414.0,Hotel,100,Vienna
+280,22228,Mariahilf,1.0,3.0,3.7,67.0,Pension,89,Vienna
+281,22229,Mariahilf,1.1,3.0,3.9,78.0,Hotel,82,Vienna
+282,22230,Mariahilf,1.8,4.0,3.9,1150.0,Hotel,82,Vienna
+283,22231,Mariahilf,1.8,3.0,,,Apartment,88,Vienna
+284,22233,Mariahilf,1.6,3.0,,,Apartment,150,Vienna
+285,22234,Mariahilf,1.6,2.0,3.7,,Apartment,134,Vienna
+286,22235,Mariahilf,1.9,4.0,3.5,290.0,Hotel,87,Vienna
+287,22236,Mariahilf,1.6,4.0,3.7,372.0,Hotel,100,Vienna
+288,22237,Mariahilf,1.6,4.0,4.3,561.0,Hotel,84,Vienna
+289,22238,Mariahilf,0.9,2.0,3.7,112.0,Hotel,52,Vienna
+290,22239,Neubau,0.8,4.0,3.7,650.0,Hotel,98,Vienna
+291,22240,Neubau,0.7,5.0,4.9,1523.0,Hotel,333,Vienna
+292,22241,Neubau,1.8,3.0,4.1,1171.0,Hotel,99,Vienna
+293,22243,Neubau,1.5,3.0,4.0,98.0,Bed and breakfast,77,Vienna
+294,22244,Neubau,1.6,3.5,4.6,,Apartment,160,Vienna
+295,22245,Neubau,1.6,3.5,5.0,,Apartment,160,Vienna
+296,22246,Neubau,1.6,3.0,3.5,265.0,Hotel,76,Vienna
+297,22247,Neubau,1.6,3.0,4.4,36.0,Bed and breakfast,89,Vienna
+298,22248,Neubau,0.8,3.0,3.7,,Hotel,113,Vienna
+299,22249,Neubau,0.9,4.0,4.4,2436.0,Hotel,110,Vienna
+300,22250,Neubau,1.0,4.0,4.6,2431.0,Hotel,184,Vienna
+301,22251,Neubau,1.7,2.0,3.2,308.0,Hotel,33,Vienna
+302,22252,Neubau,1.0,3.0,4.3,364.0,Hotel,1012,Vienna
+303,22253,Neubau,1.7,4.0,4.1,612.0,Hotel,99,Vienna
+304,22254,Neubau,0.8,3.0,3.9,143.0,Hotel,122,Vienna
+305,22255,Neubau,1.7,4.0,4.3,978.0,Hotel,122,Vienna
+306,22256,Neubau,1.7,4.0,4.0,816.0,Hotel,105,Vienna
+307,22257,Neubau,1.7,4.0,5.0,,Apartment,98,Vienna
+308,22258,Neubau,1.4,3.5,,,Apartment,92,Vienna
+309,22259,Neubau,1.4,4.0,4.0,582.0,Hotel,109,Vienna
+310,22260,Neubau,1.2,3.0,4.1,412.0,Hotel,105,Vienna
+311,22265,Ottakring,2.0,2.0,3.2,,Apartment,133,Vienna
+312,22266,Ottakring,2.3,2.5,4.3,,Apartment,133,Vienna
+313,22268,Ottakring,3.1,3.0,3.5,193.0,Hotel,52,Vienna
+314,22269,Ottakring,1.8,2.0,3.7,,Apartment,134,Vienna
+315,22271,Ottakring,4.1,4.0,4.0,265.0,Hotel,80,Vienna
+316,22272,Rudolfsheim-Funfhaus,2.9,2.0,4.0,42.0,Hotel,91,Vienna
+317,22273,Rudolfsheim-Funfhaus,2.6,4.0,,,Apartment,129,Vienna
+318,22274,Rudolfsheim-Funfhaus,1.9,2.0,3.7,549.0,Hostel,47,Vienna
+319,22275,Rudolfsheim-Funfhaus,1.8,4.0,3.9,1020.0,Hotel,70,Vienna
+320,22276,Rudolfsheim-Funfhaus,2.3,3.5,2.2,,Apartment,88,Vienna
+321,22277,Rudolfsheim-Funfhaus,1.9,3.0,4.5,1452.0,Hotel,136,Vienna
+322,22279,Rudolfsheim-Funfhaus,2.1,3.0,4.1,464.0,Hotel,80,Vienna
+323,22280,Rudolfsheim-Funfhaus,2.3,2.0,3.9,,Apartment,131,Vienna
+324,22281,Rudolfsheim-Funfhaus,2.4,3.0,4.1,635.0,Hotel,81,Vienna
+325,22284,Rudolfsheim-Funfhaus,2.5,2.0,3.7,,Apartment,133,Vienna
+326,22285,Rudolfsheim-Funfhaus,3.6,4.0,3.7,388.0,Hotel,66,Vienna
+327,22286,Rudolfsheim-Funfhaus,2.8,3.0,4.0,241.0,Hotel,77,Vienna
+328,22287,Rudolfsheim-Funfhaus,1.8,3.0,4.5,,Apartment,121,Vienna
+329,22288,Rudolfsheim-Funfhaus,2.1,4.0,3.7,399.0,Hotel,69,Vienna
+330,22289,Rudolfsheim-Funfhaus,2.1,3.0,4.1,260.0,Hotel,83,Vienna
+331,22290,Rudolfsheim-Funfhaus,1.9,2.0,4.1,604.0,Hostel,53,Vienna
+332,22291,Rudolfsheim-Funfhaus,2.7,3.5,4.0,,Apartment,133,Vienna
+333,22293,Rudolfsheim-Funfhaus,1.8,4.0,3.9,212.0,Hotel,77,Vienna
+334,22294,Rudolfsheim-Funfhaus,2.0,2.0,4.5,945.0,Hostel,48,Vienna
+335,22295,Rudolfsheim-Funfhaus,2.9,4.5,4.3,831.0,Hotel,142,Vienna
+336,22296,Rudolfsheim-Funfhaus,1.7,4.0,3.9,7.0,Hotel,121,Vienna
+337,22299,Schonbrunn,3.6,3.0,3.5,116.0,Hotel,68,Vienna
+338,22300,Schonbrunn,2.0,3.0,3.7,199.0,Hotel,63,Vienna
+339,22301,Schonbrunn,2.1,3.0,4.5,187.0,Hotel,101,Vienna
+340,22302,Schonbrunn,2.6,4.0,3.7,309.0,Hotel,75,Vienna
+341,22303,Schonbrunn,3.6,4.0,4.3,1122.0,Hotel,156,Vienna
+342,22304,Schonbrunn,3.7,3.0,3.5,177.0,Hotel,56,Vienna
+343,22306,Schonbrunn,2.4,3.5,4.5,1245.0,Hotel,82,Vienna
+344,22307,Schonbrunn,2.6,4.0,4.4,1148.0,Hotel,82,Vienna
+345,22309,Schonbrunn,4.1,3.0,3.7,69.0,Hotel,106,Vienna
+346,22310,Schonbrunn,3.1,3.0,2.7,114.0,Hotel,85,Vienna
+347,22311,Schonbrunn,2.6,3.5,4.5,,Hotel,83,Vienna
+348,22312,Schonbrunn,2.9,4.0,4.1,753.0,Hotel,92,Vienna
+349,22314,Schonbrunn,2.3,3.0,4.3,,Apartment,169,Vienna
+350,22315,Schonbrunn,2.7,3.0,3.5,79.0,Guest House,77,Vienna
+351,22317,Schwechat,11.0,3.0,4.3,196.0,Hotel,92,Vienna
+352,22318,Schwechat,11.0,4.0,4.0,2400.0,Hotel,166,Vienna
+353,22319,Schwechat,7.7,4.0,3.7,191.0,Hotel,137,Vienna
+354,22320,Schwechat,7.7,3.0,3.7,191.0,Hotel,99,Vienna
+355,22321,Schwechat,7.8,4.0,3.5,127.0,Hotel,140,Vienna
+356,22322,Schwechat,6.3,3.0,3.2,247.0,Hotel,80,Vienna
+357,22323,Schwechat,6.7,3.0,3.5,161.0,Hotel,91,Vienna
+358,22324,Vienna,4.3,3.5,,,Apartment,105,Vienna
+359,22325,Vienna,2.6,2.0,4.0,,Apartment,130,Vienna
+360,22326,Vienna,4.7,3.0,4.3,29.0,Pension,110,Vienna
+361,22328,Vienna,2.0,4.0,4.0,192.0,Hotel,117,Vienna
+362,22330,Vienna,5.4,4.0,4.1,12.0,Pension,106,Vienna
+363,22331,Vienna,3.9,3.0,3.7,129.0,Hotel,66,Vienna
+364,22332,Vienna,3.5,5.0,4.6,2.0,Apartment,266,Vienna
+365,22333,Vienna,2.4,2.0,3.5,1051.0,Hotel,58,Vienna
+366,22334,Vienna,3.7,3.5,4.1,12.0,Hotel,81,Vienna
+367,22335,Vienna,3.5,4.0,4.0,386.0,Hotel,109,Vienna
+368,22336,Vienna,2.3,4.5,4.3,2454.0,Hotel,114,Vienna
+369,22337,Vienna,2.3,3.5,4.4,261.0,Apart-hotel,125,Vienna
+370,22338,Vienna,1.7,3.0,3.7,53.0,Guest House,69,Vienna
+371,22339,Vienna,2.6,3.0,,,Apartment,69,Vienna
+372,22340,Vienna,3.1,4.0,4.0,277.0,Hotel,97,Vienna
+373,22341,Vienna,4.8,4.0,3.9,73.0,Hotel,74,Vienna
+374,22342,Vienna,3.7,4.0,3.7,320.0,Hotel,69,Vienna
+375,22343,Vienna,3.9,4.0,4.0,121.0,Hotel,83,Vienna
+376,22344,Vienna,3.9,3.0,3.9,12.0,Hotel,50,Vienna
+377,22345,Vienna,4.7,2.0,3.2,36.0,Apartment,130,Vienna
+378,22346,Vienna,3.7,3.0,3.0,,Apartment,134,Vienna
+379,22347,Vienna,6.9,3.0,4.0,,Apartment,134,Vienna
+380,22348,Vienna,3.7,3.0,4.0,21.0,Hotel,77,Vienna
+381,22349,Vienna,5.3,3.0,4.0,204.0,Hotel,102,Vienna
+382,22350,Vienna,2.5,3.5,3.2,88.0,Apartment,56,Vienna
+383,22351,Vienna,2.7,3.0,3.0,,Apartment,185,Vienna
+384,22353,Vienna,6.6,3.0,4.4,20.0,Hotel,130,Vienna
+385,22354,Vienna,3.2,3.0,4.3,811.0,Hotel,78,Vienna
+386,22355,Vienna,3.3,3.0,3.7,61.0,Hotel,76,Vienna
+387,22356,Vienna,4.5,4.0,4.0,87.0,Hotel,68,Vienna
+388,22358,Vienna,2.7,4.0,4.0,493.0,Hotel,116,Vienna
+389,22359,Vienna,2.2,4.0,4.1,401.0,Hotel,172,Vienna
+390,22361,Vienna,5.2,2.0,3.2,187.0,Hostel,80,Vienna
+391,22362,Vienna,2.4,3.0,4.0,30.0,Hotel,87,Vienna
+392,22363,Vienna,4.6,3.0,3.0,78.0,Hotel,90,Vienna
+393,22364,Vienna,2.7,3.5,4.4,282.0,Hotel,100,Vienna
+394,22365,Vienna,3.1,2.0,3.2,,Apartment,173,Vienna
+395,22366,Vienna,2.5,2.0,3.2,35.0,Pension,92,Vienna
+396,22369,Vienna,2.6,2.0,3.7,,Apartment,133,Vienna
+397,22370,Vienna,5.1,3.5,3.2,,Apartment,134,Vienna
+398,22371,Vienna,5.2,3.0,4.0,,Apartment,209,Vienna
+399,22372,Vienna,1.6,3.0,4.4,,Apartment,66,Vienna
+400,22373,Vienna,1.4,4.0,4.9,12.0,Apartment,114,Vienna
+401,22377,Voesendorf,7.0,4.0,3.5,73.0,Hotel,89,Vienna
+402,22378,Voesendorf,7.1,4.0,3.7,545.0,Hotel,92,Vienna
+403,22380,Wahring,1.9,3.0,4.4,982.0,Hotel,84,Vienna
+404,22381,Wahring,1.8,2.0,3.5,26.0,Apartment,124,Vienna
+405,22382,Wahring,2.1,4.0,4.4,142.0,Hotel,185,Vienna
+406,22384,Wahring,3.0,4.0,4.0,553.0,Hotel,85,Vienna
+407,22385,Wahring,1.9,2.0,4.0,,Apartment,133,Vienna
+408,22386,Wieden,1.6,3.5,4.5,116.0,Hotel,110,Vienna
+409,22387,Wieden,1.6,3.0,4.3,89.0,Hotel,86,Vienna
+410,22388,Wieden,1.0,4.0,4.1,436.0,Hotel,118,Vienna
+411,22389,Wieden,0.9,3.5,4.5,,Hotel,126,Vienna
+412,22390,Wieden,1.3,3.0,4.3,688.0,Hotel,92,Vienna
+413,22391,Wieden,0.8,4.0,4.8,1840.0,Hotel,197,Vienna
+414,22393,Wieden,1.3,2.5,3.5,69.0,Guest House,39,Vienna
+415,22394,Wieden,1.2,4.0,4.5,1121.0,Hotel,135,Vienna
+416,22395,Wieden,1.2,4.0,4.4,229.0,Hotel,125,Vienna
+417,22396,Wieden,1.0,2.0,3.4,1583.0,Hostel,67,Vienna
+418,22397,Wieden,0.8,4.0,4.5,615.0,Hotel,134,Vienna
+419,22398,Wieden,0.9,3.0,3.5,383.0,Hotel,91,Vienna
+420,22399,Wieden,0.8,3.0,3.9,263.0,Hotel,110,Vienna
+421,22400,Wieden,0.9,3.5,5.0,,Apartment,84,Vienna
+422,22401,Wieden,1.2,3.0,4.0,149.0,Hotel,100,Vienna
+423,22402,Wieden,1.5,4.0,4.1,1003.0,Hotel,95,Vienna
+424,22403,Wieden,1.5,3.0,3.4,293.0,Hotel,73,Vienna
+425,22404,Wieden,1.5,3.0,5.0,14.0,Apartment,109,Vienna
+426,22406,Wieden,0.8,5.0,4.3,740.0,Hotel,185,Vienna
+427,22407,Wieden,1.0,4.0,4.4,1006.0,Hotel,100,Vienna
+428,22408,Wieden,1.4,3.0,3.2,135.0,Hotel,58,Vienna
+429,22409,Wieden,0.7,3.5,4.0,,Apartment,110,Vienna
