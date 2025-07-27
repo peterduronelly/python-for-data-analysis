@@ -1,0 +1,4 @@
+Lubię jabłka. The length of this line is 14
+Szeretem az almát. The length of this line is 19
+Mám rád jablka. The length of this line is 16
+Všeč so mi jabolka. The length of this line is 19

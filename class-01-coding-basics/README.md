@@ -1,9 +1,11 @@
-# Class 01. Coding Basics
+# Coding Basics
 
 ## Motivation
+
 In this lecture we jump into the very basics of Python. This is the beginning of a long journey, which, honestly, will never end.
 
 ## This lecture
+
 - working with Jupyter notebooks
 - variables: types and assignment
 - operators
@@ -13,9 +15,15 @@ In this lecture we jump into the very basics of Python. This is the beginning of
 - conditional statements and control flows
 
 ## Learning outcomes
+
 After successfully completing the learning material, students will be familiar with
+
 - general coding principles (for both Python and other languages)
 - basic variable types of integers, gloats and booleans
 - how to assign value to a variable
 - how to do basic operations with these variables
 - how to manipulate strings, focusing on writing some simple SQL - queries, the primary tool of any data professional.
+
+## Note
+
+Some of the cells will throw an error. This is part of the material to make the reader see what works and what does not. 
