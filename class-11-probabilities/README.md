@@ -18,6 +18,7 @@ We start with linear probability models with multiple explanatory variables. We 
 
 After successfully completing the learning material, students will be familiar with
 
+- carry out data transformations and feature engineering with the `patsy` package
 - building probability models and assessing their absolute and relative performance
 - calculating marginal effects for logit and probit regressions
-- the sesntivity of the tails of the caliration curve to the probability bins
+- the sesntivity of the tails of the calibration curve to the probability bins
