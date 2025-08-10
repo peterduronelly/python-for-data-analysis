@@ -6,7 +6,7 @@ This is a complicated lecture which can easily overwhelm the novice data analyst
 
 ## This lecture
 
-- manipulating time series data for getting deeprr insight and for building better-performing models
+- manipulating time series data for getting deeper insight and for building better-performing models
 - methods and workflows for testing stationarity and unit-root: Augmented Dickey-Fuller and Phillips-Perron tests
 - visualizing the results of the stationarity tests
 - volatility-clustering, plotting and interpreting the market beta
