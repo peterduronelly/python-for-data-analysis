@@ -140,13 +140,13 @@ Type `Anadonda prompt` in the program search bar and open the application. This 
 Save a list of packages Anaconda has provided during the original installation.
 
 ```bash
-conda list -e > packages.txt
+conda list -e > requirements.txt
 ```
 
 Create a dedicated *virtual environment* by typing   
 
 ```bash
-conda create --name myenv --file packages.txt python=3.12
+conda create --name myenv --file requirements.txt python=3.12
 ```
 where '*myenv*' is the name of your dedicated virtual environment. You can call it *py312* to indicate the Python version you are using or *dataanalysis* to remind you on what you are using the virtual environment for, or whatever name you prefer. 
 
